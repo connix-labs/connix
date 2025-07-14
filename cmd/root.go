@@ -2,6 +2,8 @@
 Copyright © 2025 connix-labs
 
 */
+
+// Package cmd is the main package for the connix CLI application.
 package cmd
 
 import (
@@ -9,8 +11,6 @@ import (
 
 	"github.com/spf13/cobra"
 )
-
-
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
@@ -47,5 +47,3 @@ func init() {
 	// when this action is called directly.
 	rootCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
 }
-
-
