@@ -1,0 +1,16 @@
+[
+  {
+    "session_id": "e6692c9e-bd36-46e6-b4dc-67f2b1fe13bc",
+    "transcript_path": "/home/connerohnesorge/.claude/projects/-home-connerohnesorge-Documents-002Orgs-connix-api-conn/e6692c9e-bd36-46e6-b4dc-67f2b1fe13bc.jsonl",
+    "cwd": "/home/connerohnesorge/Documents/002Orgs/connix/api/conn",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e6692c9e-bd36-46e6-b4dc-67f2b1fe13bc",
+    "transcript_path": "/home/connerohnesorge/.claude/projects/-home-connerohnesorge-Documents-002Orgs-connix-api-conn/e6692c9e-bd36-46e6-b4dc-67f2b1fe13bc.jsonl",
+    "cwd": "/home/connerohnesorge/Documents/002Orgs/connix/api/conn",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  }
+]
